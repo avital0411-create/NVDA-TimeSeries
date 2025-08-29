@@ -43,9 +43,37 @@ The goal is to identify patterns, select optimal models, and evaluate forecastin
 ---
 
 ## How to Use
+1. Clone or download this repository
+
+---
+
+## 3. Linear Regression Project (R)
+
+### Methods
+- Data cleaning: removal of missing values and outliers  
+- Exploratory visualization of all variables  
+- Variable selection to identify the best-fitting regression model  
+
+### File
+- `Final_Project.R` – R script implementing linear regression analysis  
+
+### Key Outcomes
+- Built and evaluated a linear regression model  
+- Developed an optimal specification after preprocessing and feature selection  
+
+---
+
+## How to Use
 1. Clone or download this repository  
 2. Open the relevant R script (`.R` file)  
 3. Run the script to reproduce the analysis and results  
+
+---
+
+✨ This portfolio demonstrates practical skills in econometrics, time series forecasting, panel data modeling, and linear regression using **R**.
+
+3. Open the relevant R script (`.R` file)  
+4. Run the script to reproduce the analysis and results  
 
 ---
 
