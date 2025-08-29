@@ -1,7 +1,7 @@
 # Data Science Portfolio (R & Python)
 
 This repository contains academic and practical projects in **R** and **Python**,  
-covering econometrics, time series forecasting, and machine learning.  
+covering linear regression, time series forecasting, panel data analysis, and machine learning.  
 The goal is to demonstrate data analysis, model building, and evaluation skills.
 
 ---
