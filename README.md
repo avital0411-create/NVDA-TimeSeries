@@ -71,11 +71,32 @@ The goal is to demonstrate data analysis, model building, and evaluation skills.
 
 ---
 
-✨ This portfolio demonstrates practical skills in econometrics, time series forecasting, panel data modeling, and linear regression using **R**.
+## 4. Linear Regression — Car Price Prediction (Python)
 
-3. Open the relevant R script (`.R` file)  
-4. Run the script to reproduce the analysis and results  
+### Methods
+- Data cleaning: removal of duplicates and outliers  
+- Exploratory visualization: histograms, scatter plots, and correlation heatmap  
+- Feature engineering: interaction terms  
+- Model fitting with `statsmodels` (OLS)  
+- Evaluation with RMSE and R²; residual diagnostics and Actual vs. Predicted comparison  
+
+### File
+- `Car_Price_Linear_Regression.ipynb` – Jupyter Notebook containing the full workflow  
+
+### Key Outcomes
+- Built and validated a linear regression model to predict car prices  
+- Achieved high model accuracy (R² ≈ 0.99, RMSE ≈ 94.7)  
 
 ---
+
+## How to Use
+1. Clone or download this repository  
+2. Open the relevant R script (`.R` file) or Python notebook (`.ipynb` file)  
+3. Run the code to reproduce the analysis and results  
+
+---
+
+This portfolio demonstrates practical skills in linear regression, time series forecasting, panel data modeling, and machine learning using R and Python.
+
 
 ✨ This portfolio demonstrates practical skills in econometrics, time series forecasting, and panel data modeling using **R**.
