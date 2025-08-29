@@ -1,7 +1,8 @@
-# NVDA Time Series Forecasting (ARMA) & Fixed Effects Panel Data Analysis
+# Data Science Portfolio (R & Python)
 
-This repository contains econometrics projects in **R**, focusing on both time series forecasting and panel data analysis.  
-The goal is to identify patterns, select optimal models, and evaluate forecasting and regression accuracy.
+This repository contains academic and practical projects in **R** and **Python**,  
+covering econometrics, time series forecasting, and machine learning.  
+The goal is to demonstrate data analysis, model building, and evaluation skills.
 
 ---
 
