@@ -96,6 +96,27 @@ The goal is to demonstrate data analysis, model building, and evaluation skills.
 
 ---
 
+## 5. Classification and Machine Learning Models (Python)
+
+This project implements several classification and machine learning models in **Python**,
+including Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors (KNN).  
+The workflow covers data preprocessing, model training, evaluation metrics (Accuracy, Precision, Recall, F1), 
+and confusion matrices.
+
+### File
+- [`classification_ml_models.ipynb`](https://github.com/avital0411-create/NVDA-TimeSeries/blob/main/עבודה%20מסכמת%20בפייתון%20(3)%20(3)%20(1).ipynb)
+
+### Key Outcomes
+- Compared performance across multiple ML models  
+- Identified the most accurate classifier for the dataset  
+- Demonstrated end-to-end workflow: data cleaning → feature engineering → training → evaluation
+
+⚠️ **Note:**  
+Due to GitHub rendering limits, the notebook may not display online.  
+To view the project:  
+- Download the file and open locally in **Jupyter Notebook**  
+- Or upload it to **Google Colab** for direct execution
+
 This portfolio demonstrates practical skills in linear regression, time series forecasting, panel data modeling, and machine learning using R and Python.
 
 
